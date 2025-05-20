@@ -1,0 +1,24 @@
+{
+  "name": "employeemanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hari2k3/Employeemanager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hari2k3/Employeemanager/issues"
+  },
+  "homepage": "https://github.com/Hari2k3/Employeemanager#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
